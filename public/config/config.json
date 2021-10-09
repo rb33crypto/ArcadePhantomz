@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7334a726553784d1da42b4a27e2d24edf0d3a037",
+  "SCAN_LINK": "https://ftmscan.com/token/0x7334a726553784d1da42b4a27e2d24edf0d3a037",
+  "NETWORK": {
+    "NAME": "Fantom",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "Arcade Phantomz",
+  "SYMBOL": "Phantom",
+  "MAX_SUPPLY": 555,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 200000,
+  "MARKETPLACE": "Artion",
+  "MARKETPLACE_LINK": "Coming Soon",
+  "SHOW_BACKGROUND": true
+}

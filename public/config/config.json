@@ -9,10 +9,10 @@
   "NFT_NAME": "Arcade Phantomz",
   "SYMBOL": "Phantom",
   "MAX_SUPPLY": 555,
-  "WEI_COST": 15000000000000000000,
-  "DISPLAY_COST": 15,
+  "WEI_COST": 5550000000000000000,
+  "DISPLAY_COST": 5.55,
   "GAS_LIMIT": 200000,
   "MARKETPLACE": "Artion",
-  "MARKETPLACE_LINK": "Coming Soon",
+  "MARKETPLACE_LINK": "https://artion.io/explore",
   "SHOW_BACKGROUND": true
 }
